@@ -1,4 +1,41 @@
 *{
     margin: 0;
-    padding: 0
+    padding: 0;
+}
+body{
+    background-color: rgb(245, 178, 152);
+}
+#siennaPlane{
+    border: 10px solid lightblue;
+    padding: 3px;
+    border-radius: 50%;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Courier New",monospace;
+    text-align:center;
+}
+a{
+    font-family: "Comic Sans MS",sans-serif;
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+    color: lightslategrey
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+    color:grey
+}
+img{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 20px;
+}
+p{
+    text-align: center;
+    font-family: "Comic Sans MS",sans-serif;
 }
